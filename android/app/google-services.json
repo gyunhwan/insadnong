@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "324854429229",
+    "project_id": "insadong2-feea3",
+    "storage_bucket": "insadong2-feea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324854429229:android:35ece744ec850b77236aa4",
+        "android_client_info": {
+          "package_name": "com.dmonster.insadong2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324854429229-k1352lqb6uh2l4g5f5v3qta8395uclf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dmonster.insadong2",
+            "certificate_hash": "d906aa81e15924e6c2a40a8087e60d894f194fe9"
+          }
+        },
+        {
+          "client_id": "324854429229-ljks7qe99mqvdvnldur3u9dqpohq21if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dmonster.insadong2",
+            "certificate_hash": "696c218f66006aedb9fc592eb26e85c500f590cc"
+          }
+        },
+        {
+          "client_id": "324854429229-mv44san1optckurn1kv31htc48fu5780.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dmonster.insadong2",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "324854429229-cibnt7najmm42aol2n0p7t520jnii03o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-mKfkv2QT89nHF81ZHPIoc-R3h4D5Z34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324854429229-cibnt7najmm42aol2n0p7t520jnii03o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
